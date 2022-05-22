@@ -41,11 +41,11 @@ MDScreen:
 
         MDBottomNavigationItem:
             name: 'screen 3'
-            text: 'Привет'
+            text: 'Привет222'
             icon: 'linkedin'
 
             MDLabel:
-                text: 'привет'
+                text: 'привет111'
                 halign: 'center'
 '''
         )
